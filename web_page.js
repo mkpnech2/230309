@@ -18,3 +18,5 @@ let content = document.getElementById('content');
     green_btn.addEventListener('click',()=>{
         content.style.background='green';
     });
+
+//수정
